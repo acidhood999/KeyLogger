@@ -6,8 +6,6 @@
 
 A high-performance utility for monitoring activity in Windows. The project demonstrates how to work with low-level system mechanisms, hidden file management, and network data exfiltration.
 
-> **This software is created for educational purposes only.
-
 ---
 
 ## Tech stack and capabilities
