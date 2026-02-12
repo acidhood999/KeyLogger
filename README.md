@@ -1,5 +1,3 @@
-# KeyLogger
-
 # Win32 Activity Monitor & System Logger (C++)
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)
