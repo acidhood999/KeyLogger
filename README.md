@@ -59,3 +59,6 @@ std::string chatId = "YOUR_CHAT_ID";
 1. Terminate the SecurityHealthHost.exe process in Task Manager
 2. Delete the WindowsUpdateTask value from HKCU\Software\Microsoft\Windows\CurrentVersion\Run
 3. Delete the folder %APPDATA%\Microsoft\Libs 
+
+---
+*Created by [acidhood999](https://github.com/acidhood999)*
