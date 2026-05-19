@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KeyLogger.vcxproj" Id="3354ca00-1beb-41d1-afe6-233c6da40265" />
+</Solution>
